@@ -43,4 +43,3 @@ function deepCopy(obj) {
 }
 
 console.log(deepCopy(chef));
-
